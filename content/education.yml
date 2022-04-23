@@ -7,7 +7,8 @@ education:
   - name: Foothill College
     start: September 2021
     end: March 2022
-    body: "Courses (Dual-Enrollment): Multivariable Calculus A, Multivariable Calculus B"
+    desc: "Dual-Enrollment"
+    body: "Courses: Multivariable Calculus A, Multivariable Calculus B"
   - name: Random Math
     start: October 2019
     end: February 2022
