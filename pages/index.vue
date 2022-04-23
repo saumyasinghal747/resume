@@ -1,5 +1,5 @@
 <template>
-  <div class="text-gray-800 flex flex-col py-8 px-16">
+  <div class="text-gray-800 font-sans flex flex-col py-8 px-16">
     <h1 class="mx-auto font-bold text-4xl">Saumya Singhal</h1>
     <hr class="mt-2" />
     <div class="flex pt-4 gap-8 flex-row px-4">
@@ -57,8 +57,8 @@
         </div>
         <div>
         <h2>Awards</h2>
-        <div class="prose text-gray-800 text-xs max-w-none">
-          <ul class="pl-3">
+        <div class=" text-gray-800 text-xs max-w-none">
+          <ul class="flex flex-col gap-1">
             <li class="text-xs" :key="adx" v-for="(a, adx) of awards">
               {{ a }}
             </li>
