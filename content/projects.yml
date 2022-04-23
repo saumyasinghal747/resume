@@ -2,18 +2,23 @@ projects:
   - name: HaoMango
     desc: Chinese Learning App
     start: November 2021
+    body: Helped me go from barely passing exams to consistently earning full score within a week, now used by teacher as required learning material for the whole class
   - name: YMath.io
     desc: Math Education Website
     start: March 2020
+    body: Authored math courses in Exponents, Trigonometry, Mathematical Programming, and Calculus
   - name: Imperichat
     desc: Schoolwide Social Media
     start: October 2020
+    body: Communication channel for students to ask their peers for  help with class material 
   - name: Gunn Virtual Campus
     desc: Virtual School Campus
     start: September 2020
+    body: Students have a place to socialize with their schoolmates during remote learning
   - name: Tangent
     desc: Graphing Calculator
     start: February 2021
+    body: Placed top ten in 36 hour annual hackathon, over 200 participants. Built a 3D graphing calculator using web technologies, at https://tangent.ymath.io/.
   - name: Gunn.One
     desc: School Utility App
     start: February 2021

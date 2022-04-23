@@ -37,6 +37,7 @@
                 >{{ p.start }} - {{ p.end || "Present" }}</span
               >
             </h3>
+            <p class="text-[0.6rem] font-light">{{ p.body }}</p>
           </div>
         </div>
       </div>
