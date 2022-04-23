@@ -2,7 +2,10 @@ leadership:
   - name: JLS Math Circle
     start: January 2022
     position: Founder and Director
-    body: Focus on encouraging enjoyment of mathematical concepts rather than competitive, answer-driven environment. Consistent attendance of twenty students and overall staff appreciation.
+    body: Focus on encouraging enjoyment of mathematical concepts. Consistent attendance of twenty students and overall staff appreciation.
+  - name: Gunn CS Dept
+    position: Teaching Assistant
+    start: January 2022 
   - name: Gunn United Computations
     start: May 2021
     position: President
@@ -20,8 +23,4 @@ leadership:
     position: Teaching Assistant
     start: August 2021
     end: December 2021
-    body: Taught Geometry in the truggling math class at Gunn, and assisted students who needed help but were reluctant to ask for it.
-  - name: Gunn CS Dept
-    position: Teaching Assistant
-    start: January 2022
-    end: June 2022
+    body: Taught Geometry in the struggling math class at Gunn, and assisted students who needed help but were reluctant to ask for it.

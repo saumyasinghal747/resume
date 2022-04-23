@@ -1,8 +1,16 @@
 projects:
+  - name: Gunn Elimination
+    start: February 2022
+    desc: Schoolwide Game
+    body: Programmed the school's official game portal for a month-long game of assassin. Used NextJS, Javascript, and CSS.
+  - name: Gunn.One
+    desc: School Utility App
+    start: February 2021
+    body: Utilized school LMS APIs to build an application used daily by students. Used VueJS, Javascript, and CSS.
   - name: HaoMango
     desc: Chinese Learning App
     start: November 2021
-    body: Helped me go from barely passing exams to consistently earning full score within a week, now used by teacher as required learning material for the whole class
+    body: Helps students master chinese dictation with realtime feedback, now used by teacher as required learning material for the whole class
   - name: YMath.io
     desc: Math Education Website
     start: March 2020
@@ -19,9 +27,4 @@ projects:
     desc: Graphing Calculator
     start: February 2021
     body: Placed top ten in 36 hour annual hackathon, over 200 participants. Built a 3D graphing calculator using web technologies, at https://tangent.ymath.io/.
-  - name: Gunn.One
-    desc: School Utility App
-    start: February 2021
-  - name: Gunn Elimination
-    start: August 2020
-    desc: Schoolwide Game
+

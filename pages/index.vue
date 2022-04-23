@@ -7,11 +7,11 @@
         <div>
           <h2>Education</h2>
           <div :key="key" v-for="(ed, key) in education">
-            <h3 class="mt-1 flex flex-row mb-[2px] text-xs">
-              <span class="font-semibold">{{ ed.name }}</span>
+            <h3 class="mt-1 gap-1 flex flex-row mb-[2px] text-xs">
+              <span class="font-semibold">{{ ed.name }}</span> <span v-if="ed.desc" class="text-emerald-500">•</span> <span>{{ed.desc}}</span>
               <span class="italic ml-auto"
                 >{{ ed.start }} - {{ ed.end || "Present" }}</span
-              >
+              > 
             </h3>
             <p class="text-[0.6rem] font-light">{{ ed.body }}</p>
           </div>
@@ -41,14 +41,19 @@
           </div>
         </div>
       </div>
-      <div class="flex gap-2 flex-col">
+      <div class="flex gap-2 max-w-[15rem] flex-col">
         <div>
           <h2>Contact</h2>
           <div class="text-xs flex flex-col gap-1">
           <p>realsaumya@gmail.com</p>
           <p>(510)-945-8901</p>
           <p>832 Loma Verde Avenue<br/>Palo Alto, CA, 94303</p>
+          <p>github.com/saumyasinghal747</p>
           </div>
+        </div>
+        <div>
+          <h2>Skills</h2>
+          <div class="text-xs">{{skills}}</div>
         </div>
         <div>
         <h2>Awards</h2>
@@ -82,6 +87,9 @@ export default {
       projects: await $content("projects")
         .fetch()
         .then((e) => e.projects),
+      skills: await $content("skills")
+        .fetch()
+        .then((e) => e.skills),
     };
   },
 };
