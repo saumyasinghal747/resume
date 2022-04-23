@@ -10,8 +10,8 @@
             <h3 class="mt-1 gap-1 flex flex-row mb-[2px] text-xs">
               <span class="font-semibold">{{ ed.name }}</span> <span v-if="ed.desc" class="text-emerald-500">•</span> <span>{{ed.desc}}</span>
               <span class="italic ml-auto"
-                >{{ ed.start }} - {{ ed.end || "Present" }}</span
-              > 
+                >{{ ed.start }} – {{ ed.end || "Present" }}</span
+              >
             </h3>
             <p class="text-[0.6rem] font-light">{{ ed.body }}</p>
           </div>
@@ -22,7 +22,7 @@
             <h3 class="mt-1 flex flex-row mb-[2px] text-xs gap-1">
               <span class="font-semibold">{{ l.name }} </span> <span class="text-emerald-500">•</span> <span>{{l.position}}</span>
               <span class="italic ml-auto"
-                >{{ l.start }} - {{ l.end || "Present" }}</span
+                >{{ l.start }} – {{ l.end || "Present" }}</span
               >
             </h3>
             <p class="text-[0.6rem] font-light">{{ l.body }}</p>
@@ -34,7 +34,7 @@
             <h3 class="mt-1 flex flex-row mb-[2px] text-xs gap-1">
               <span class="font-semibold">{{ p.name }} </span> <span class="text-emerald-500">•</span> <span>{{p.desc}}</span>
               <span class="italic ml-auto"
-                >{{ p.start }} - {{ p.end || "Present" }}</span
+                >{{ p.start }} – {{ p.end || "Present" }}</span
               >
             </h3>
             <p class="text-[0.6rem] font-light">{{ p.body }}</p>
@@ -47,7 +47,7 @@
           <div class="text-xs flex flex-col gap-1">
           <p>realsaumya@gmail.com</p>
           <p>(510)-945-8901</p>
-          <p>832 Loma Verde Avenue<br/>Palo Alto, CA, 94303</p>
+          <p>832 Loma Verde Avenue<br/>Palo Alto, CA 94303</p>
           <p>github.com/saumyasinghal747</p>
           </div>
         </div>
