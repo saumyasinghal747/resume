@@ -1,6 +1,7 @@
 leadership:
-  - name: JLS Math Circle
+  - name: JLS Middle School Math Circle
     start: January 2022
+    end: May 2022
     position: Founder and Director
     body: Focus on encouraging enjoyment of mathematical concepts. Consistent attendance of 20 students and overall staff appreciation.
   - name: Gunn CS Dept
@@ -8,13 +9,16 @@ leadership:
     start: January 2022
   - name: Gunn United Computations
     start: May 2021
+    end: May 2023
     position: President
     body: Taught new and aspiring programmers the basics of programming. Marketed for participation and sponsorship of GunnHacks 8.0, the annual hackathon.
   - name: Gunn Physics Club
     position: Vice President
     start: May 2022
+    end: May 2023    
   - name: Gunn Math Circle
     start: May 2021
+    end: May 2023
     position: Vice President of Pure Mathematics
     body: Increased overall attendance from 15 to 90 members and female attendance from 3 to 40 members.
   - name: Ross Program
