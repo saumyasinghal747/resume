@@ -1,5 +1,5 @@
 <template>
-  <div class="text-gray-800 font-sans flex flex-col py-8 px-16">
+  <div class="text-gray-800 font-sans flex flex-col py-8 px-10">
     <h1 class="mx-auto font-bold text-4xl">Saumya Singhal</h1>
     <hr class="mt-2" />
     <div class="flex pt-4 gap-8 flex-row px-4">
