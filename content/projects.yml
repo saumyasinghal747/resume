@@ -1,15 +1,18 @@
 projects:
   - name: Gunn Elimination
     start: February 2022
+    end: April 2022
     desc: Schoolwide Game
     body: Programmed the school's official game portal for a month-long game of assassin. Used NextJS, Javascript, and CSS.
   - name: Gunn.One
     desc: School Utility App
     start: February 2021
+    end: November 2022
     body: Utilized school LMS APIs to build an application used daily by students. Used VueJS, Javascript, and CSS.
   - name: HaoMango
     desc: Chinese Learning App
     start: November 2021
+    end: October 2022
     body: Helps students master Chinese dictation with real-time feedback, now used by teacher as required learning material for the whole class.
   - name: YMath.io
     desc: Math Education Website
@@ -18,12 +21,15 @@ projects:
   - name: Imperichat
     desc: Schoolwide Social Media
     start: October 2020
+    end: December 2020
     body: Communication channel for students to ask their peers for help with class material.
   - name: Gunn Virtual Campus
     desc: Virtual School Campus
     start: September 2020
+    end: March 2021
     body: Students have a place to socialize with their schoolmates during remote learning.
   - name: Tangent
     desc: Graphing Calculator
     start: February 2021
+    end: November 2021
     body: Placed Top 10 in 36-hour annual hackathon (over 200 participants total). Built a 3D graphing calculator using web technologies, at https://tangent.ymath.io/.
