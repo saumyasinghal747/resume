@@ -1,13 +1,14 @@
 leadership:
+  - name: Stanford Unstructured Data Project
+    desc: Intern
+    start: June 2022
+    end: August 2022
+    body: Created a web app with R Shiny used to train an AI model to conduct medical chart review, saving physicians hours of work.
   - name: JLS Middle School Math Circle
     start: January 2022
     end: May 2022
     position: Founder and Director
     body: Focus on encouraging enjoyment of mathematical concepts. Consistent attendance of 20 students and overall staff appreciation.
-  - name: Gunn CS Dept
-    position: Teaching Assistant
-    start: January 2022
-    end: May 2022
   - name: Gunn United Computations
     start: May 2021
     end: May 2023
@@ -22,13 +23,8 @@ leadership:
     end: May 2023
     position: Vice President of Pure Mathematics
     body: Increased overall attendance from 15 to 90 members and female attendance from 3 to 40 members.
-  - name: Ross Program
+  - name: Ross Mathematics Program
     position: Junior Counselor
     start: June 2021
     end: August 2021
     body: Hosted weekly office hours for campers to receive helpful nudges on problem sets as well as a lecture on bovine numbers.
-  - name: Gunn Math Dept
-    position: Teaching Assistant
-    start: August 2021
-    end: December 2021
-    body: Taught Geometry in the struggling math class at Gunn, and assisted students who needed help but were reluctant to ask for it.
