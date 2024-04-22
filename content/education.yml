@@ -1,27 +1,20 @@
 education:
+  - name: University of Illinois Urbana-Champaign
+    start: August 2023
+    end: Expected June 2027
+    desc: GPA 3.75
+    body: "Relevant Courses: Theory of Interest, Statistics & Probability, Economic Statistics II, Calculus III"
   - name: Henry M. Gunn High School
     start: August 2019
-    desc: GPA 4.4/4.0
+    desc: GPA 4.4W
     end: June 2023
-    body: "Relevant Courses: AP Physics C, Analysis Honors, Geometry Honors, AP Computer Science A, Functional & Object-Oriented Programming"
-  - name: Foothill College
-    start: September 2021
-    end: March 2022
-    desc: "Dual-Enrollment"
-    body: "Courses: Multivariable Calculus A, Multivariable Calculus B"
+    body: "Relevant Courses: AP Statistics, AP Macro/Microeconomics, AP Chemistry, AP Physics C, Analysis H, Geometry H, AP Computer Science A"
   - name: Random Math
     start: October 2019
     end: February 2022
-    body: "Courses: Calculus BC, Physics 2.1, Prep for AMC 10, AMC 12, and AIME"
-  - name: The Ross Program
+    body: "Courses: Calculus BC, Physics 2.1, Prep for AMC and AIME"
+  - name: Ross Mathematics Program
     start: June 2020
     end: July 2020
-    body: Daily 10-proof sets throughout the six-week program drove inquisitive mathematical thinking and demanded problem-solving perseverance and confidence.
-  - name: Stanford High School Math Circle
-    start: October 2019
-    end: February 2020
-    body: Attended high school division as a middle schooler.
-  - name: JHU CTY Intensive Studies in Cryptology
-    start: June 2019
-    end: July 2019
-    body: "“You rarely limited yourself to one method of solving the same problem” (excerpt from evaluation)."
+    body: Daily 15-hour proof-sets throughout selective six-week program drove inquisitive mathematical thinking and demanded problem-solving perseverance.
+
