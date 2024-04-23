@@ -45,7 +45,7 @@
         <div>
           <h2>Contact</h2>
           <div class="text-xs flex flex-col gap-1">
-          <p>realsaumya@gmail.com</p>
+          <p>saumyas4@illinois.edu</p>
           <p>(510)-945-8901</p>
           <p>832 Loma Verde Avenue<br/>Palo Alto, CA 94303</p>
           <p>github.com/saumyasinghal747</p>
