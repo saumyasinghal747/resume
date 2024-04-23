@@ -1,6 +1,6 @@
 leadership:
   - name: Stanford Unstructured Data Project
-    desc: Intern
+    position: Intern
     start: June 2022
     end: August 2022
     body: Created a web app with R Shiny used to train an AI model to conduct medical chart review, saving physicians hours of work.
